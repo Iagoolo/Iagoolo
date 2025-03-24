@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Iago 
 
-<!--
-**Iagoolo/Iagoolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação | 💡 Apaixonado por programação e cibersegurança
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎯 Buscando aprimorar minhas habilidades em C++ e Assembly
+- 🔍 Interesse em desenvolvimento e perícia criminal cibernética
+- 📚 Estudando para concursos da PF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas:
+- 🔹 C, C++, Python, Assembly
+- 🔹 Git, VS Code, Linux (Ubuntu)
+- 🔹 Estruturas de Dados, POO
+
+### 📈 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iago-dev&show_icons=true&theme=dark)
+
+### 📬 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-usuario/)
+[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:seuemail@gmail.com)
