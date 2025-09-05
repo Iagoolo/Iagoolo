@@ -2,12 +2,6 @@
 
 ## 👨‍💻 Sobre Mim
 
-Minha jornada na tecnologia começou com uma pergunta fundamental: *"Como as coisas realmente funcionam?"*...
-
-<br style="clear: both">
-
-## 👨‍💻 Sobre Mim
-
 Minha jornada na tecnologia começou com uma pergunta fundamental: *"Como as coisas realmente funcionam?"*. Essa curiosidade me guiou para a Ciência da Computação, não apenas para criar aplicações, mas para compreender as camadas de lógica e hardware sobre as quais elas operam. É por isso que dedico meu foco a linguagens como **C, C++ e Java**, onde a eficiência e a robustez nascem do conhecimento profundo da base.
 
 Essa mesma mentalidade investigativa me impulsiona na área da segurança. Enxergo a **perícia criminal cibernética** e a **segurança da informação** como a aplicação máxima dessa lógica: a busca por vestígios em um mundo digital para resolver quebra-cabeças complexos e fortalecer sistemas.
