@@ -2,9 +2,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-Minha jornada na tecnologia começou com uma pergunta fundamental: *"Como as coisas realmente funcionam?"*. Essa curiosidade me guiou para a Ciência da Computação, não apenas para criar aplicações, mas para compreender as camadas de lógica e hardware sobre as quais elas operam. É por isso que dedico meu foco a linguagens como **C, C++ e Java**, onde a eficiência e a robustez nascem do conhecimento profundo da base.
+Meu interesse pela computação sempre foi movido por uma forte inclinação para a investigação. Isso se manifesta tanto no fascínio por **algoritmos** – que vejo como quebra-cabeças lógicos – quanto na construção de **softwares** robustos e eficientes.
 
-Essa mesma mentalidade investigativa me impulsiona na área da segurança. Enxergo a **perícia criminal cibernética** e a **segurança da informação** como a aplicação máxima dessa lógica: a busca por vestígios em um mundo digital para resolver quebra-cabeças complexos e fortalecer sistemas.
+Foi essa característica que me levou a definir a **Perícia Criminal Cibernética** como meu principal objetivo profissional. Para mim, é a área que une perfeitamente a análise metódica com a tecnologia.
+
+Hoje, com 19 anos, curso Ciência da Computação na Universidade Federal do Ceará (UFC), onde construo a base técnica para transformar essa vocação em uma carreira sólida, com foco especial em **Cibersegurança**.
 
 <details open>
   <summary><h2>🚀 Meus Principais Projetos</h2></summary>
@@ -86,5 +88,5 @@ Essa mesma mentalidade investigativa me impulsiona na área da segurança. Enxer
 
 <p align="center">
   <a href="mailto:iagooliveiralo070@gmail.com"><img alt="Enviar um email para Iago" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"></a>
-  <a href="https://www.linkedin.com/in/[SEU-USUARIO-DO-LINKEDIN]" target="_blank"><img alt="Perfil no LinkedIn de Iago" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/iagoolo" target="_blank"><img alt="Perfil no LinkedIn de Iago" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
