@@ -1,6 +1,8 @@
-<img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="180px" align="left" alt="Animação estilo Matrix com código binário">
+![Cabeçalho customizado para o perfil de Iago](Header.svg)
 
-<h3>Explorando a intersecção entre a criação de software e a proteção de sistemas.</h3>
+## 👨‍💻 Sobre Mim
+
+Minha jornada na tecnologia começou com uma pergunta fundamental: *"Como as coisas realmente funcionam?"*...
 
 <br style="clear: both">
 
