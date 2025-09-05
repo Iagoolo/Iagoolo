@@ -89,4 +89,5 @@ Hoje, com 19 anos, curso Ciência da Computação na Universidade Federal do Cea
 <p align="center">
   <a href="mailto:iagooliveiralo070@gmail.com"><img alt="Enviar um email para Iago" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"></a>
   <a href="https://www.linkedin.com/in/iagoolo" target="_blank"><img alt="Perfil no LinkedIn de Iago" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/Iagoolo/"><img alt="Perfil no LeetCode de Iago" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </p>
