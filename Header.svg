@@ -1,4 +1,4 @@
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="200" xmlns="http://www.w.org/2000/svg">
     <defs>
         <style>
             .title {
@@ -16,7 +16,7 @@
         </style>
     </defs>
 
-    <image href="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" x="10" y="10" height="180" width="180" />
+    <image href="https://raw.githubusercontent.com/Iagoolo/Iagoolo/main/matrix.gif" x="10" y="10" height="180" width="180" />
 
     <text x="210" y="85" class="title">Solucionando quebra-cabeças digitais</text>
     
